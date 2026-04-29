@@ -1,0 +1,7 @@
+# Python dependencies for SiteWise.AI
+ultralytics
+segment-anything
+opencv-python
+matplotlib
+numpy
+pillow
